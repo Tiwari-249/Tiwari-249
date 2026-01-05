@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Tiwari-249
-<!---- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+👋 Hi, I’m Himanshu Tiwari
 
-<!---
-Tiwari-249/Tiwari-249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ MCA student at Banaras Hindu University (BHU)
+ Aspiring Data Analyst / Data Scientist
+ Python | Data Analysis | Machine Learning
+
+I am building strong foundations in Data Science, Machine Learning, and MLOps through structured learning, hands-on practice, and real-world projects.
+
+I believe in learning by doing and maintaining clean, well-documented code.
+
+Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/himanshutiwaribhu
+
+Always open to learning & collaboration
+
+Consistency beats intensity. Learning one step at a time.
