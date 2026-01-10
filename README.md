@@ -1,6 +1,7 @@
 👋 Hi, I’m Himanshu Tiwari
 
  MCA student at Banaras Hindu University (BHU)
+ 
  Aspiring Data Analyst / Data Scientist
  Python | Data Analysis | Machine Learning
 
