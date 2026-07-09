@@ -9,6 +9,9 @@ I am building strong foundations in Data Science, Machine Learning, and MLOps th
 
 I believe in learning by doing and maintaining clean, well-documented code.
 
+## My GitHub Stats 
+https://github-readme-stats.vercel.app/api?username=tiwari-249
+
 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/himanshutiwaribhu
