@@ -10,7 +10,10 @@ I am building strong foundations in Data Science, Machine Learning, and MLOps th
 I believe in learning by doing and maintaining clean, well-documented code.
 
 ## My GitHub Stats 
-https://github-readme-stats.vercel.app/api?username=tiwari-249
+
+![GitHub Stats ](https://github-readme-streak-stats.herokuapp.com/?user=ctiwari-249)
+
+![GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=campusx-official)
 
 Connect With Me
 
