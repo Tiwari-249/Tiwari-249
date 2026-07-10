@@ -16,58 +16,6 @@
 
 <img src="https://img.shields.io/github/stars/Tiwari-249?style=social"/>
 
-</p>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```text
-              ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
-              ██║  ██║██║████╗ ████║██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
-              ███████║██║██╔████╔██║███████║██╔██╗ ██║███████╗███████║██║   ██║
-              ██╔══██║██║██║╚██╔╝██║██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
-              ██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
-              ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
-```
-
----
-
-# 💻 Terminal
-
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│ himanshu@bhu                                                         │
-├──────────────────────────────────────────────────────────────────────┤
-│ 🎓 Education : MCA @ Banaras Hindu University                        │
-│ 💼 Role      : Aspiring Data Scientist                               │
-│ 🌍 Country   : India                                                 │
-│                                                                      │
-│ 🐍 Languages : Python • SQL                                          │
-│ 🗄 Database  : MySQL • MongoDB                                       │
-│ 📊 Analytics : Pandas • NumPy • Power BI                             │
-│ 🤖 ML        : Scikit-Learn • TensorFlow                             │
-│ 📈 BI Tools  : Tableau • Power BI                                    │
-│ 🛠 Tools     : Git • GitHub • VS Code                                │
-│                                                                      │
-│ 🌱 Currently Learning                                                │
-│      • Machine Learning                                              │
-│      • Deep Learning                                                 │
-│      • NLP                                                           │
-│      • LLMs                                                          │
-│                                                                      │
-│ 💬 Ask Me About                                                      │
-│      • Python                                                        │
-│      • SQL                                                           │
-│      • Data Analysis                                                 │
-│      • Machine Learning                                              │
-│                                                                      │
-│ GitHub : github.com/Tiwari-249                                       │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 # 🚀 Tech Stack
@@ -80,17 +28,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiwari-249&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari-249&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
