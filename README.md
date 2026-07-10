@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Himanshu Tiwari
 
-### 🎓 MCA Student @ Banaras Hindu University
+### 🎓 Banaras Hindu University
 
 ### 💻 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
