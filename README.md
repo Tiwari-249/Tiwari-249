@@ -1,24 +1,45 @@
-👋 Hi, I’m Himanshu Tiwari
+<div align="center">
 
- MCA student at Banaras Hindu University (BHU)
- 
- Aspiring Data Analyst / Data Scientist
- Python | Data Analysis | Machine Learning
+# 👋 Hi, I'm Himanshu Tiwari
 
-I am building strong foundations in Data Science, Machine Learning, and MLOps through structured learning, hands-on practice, and real-world projects.
+### 🎓 MCA Student @ Banaras Hindu University
 
-I believe in learning by doing and maintaining clean, well-documented code.
+### 💻 Data Scientist | Machine Learning | Python Developer
 
-## My GitHub Stats 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Science+Enthusiast;Machine+Learning+Engineer;Python+Developer;Always+Learning+New+Things" />
 
-![GitHub Stats ](https://github-readme-streak-stats.herokuapp.com/?user=ctiwari-249)
+</div>
 
-![GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=campusx-official)
+---
 
-Connect With Me
+## 💻 Terminal
 
-LinkedIn: https://www.linkedin.com/in/himanshutiwaribhu
+```text
+┌────────────────────────────────────────────────────────────┐
+│  himanshu@bhu                                              │
+├────────────────────────────────────────────────────────────┤
+│  OS           : Windows 11                                │
+│  Education    : MCA @ Banaras Hindu University             │
+│  Role         : Data Science Student                      │
+│  Location     : India                                     │
+│                                                        │
+│  Languages    : Python • SQL                      │
+│  Database     : MySQL • MongoDB                          │
+│  Libraries    : Pandas • NumPy • Scikit-learn            │
+│  Tools        : Git • GitHub • Power BI • Tableau        │
+│                                                        │
+│  Learning     : Machine Learning                         │
+│                 Deep Learning                            │
+│                 AI Automation                            │
+│                                                        │
+│  GitHub       : Tiwari-249                               │
+└────────────────────────────────────────────────────────────┘
+```
 
-Always open to learning & collaboration
+## 🚀 Tech Stack
 
-Consistency beats intensity. Learning one step at a time.
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,tensorflow,vscode"/>
+
+</p>
